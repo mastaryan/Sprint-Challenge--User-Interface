@@ -175,10 +175,10 @@ p {
 /*Start About HTLM CSS*/
 .About-Content {
     border-bottom: 1px dashed black;
-    padding: 0 15px 15px;
+    padding: 15px 15px;
 }
 .middle-section h2 {
-    padding-top: 15px;
+    padding-top: 10px;
 }
 .middle-section {
     display: flex;
@@ -188,7 +188,7 @@ p {
 }
 .middle-section .text-container {
     width: 400px;
-    padding: 20px 0;
+    padding: 20px;
     border-bottom: 1px dashed black;
 }
 .middle-section button {
