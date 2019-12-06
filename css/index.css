@@ -80,10 +80,7 @@ p {
      padding-left: 75px;
      align-items: flex-end;
  }
- .navigation-bar header nav a: hover {
-     text-decoration-line: underline;
- }
- .header-img {
+  .header-img {
      padding: 15px 0;
  }
  .top-content {
