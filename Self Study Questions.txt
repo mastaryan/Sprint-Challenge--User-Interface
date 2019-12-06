@@ -1,0 +1,14 @@
+(1)If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML allows your code to be easier understood and easier to read. The tags in HTML are described by the semantics.
+
+(2)Name two big differences between display: block; and display: inline;.
+display: block creates a space on a new line and display:inline doesn't stop the flow and is "inline" with the content on the page. 
+
+(3)What are the 4 areas of the box model?
+Margin, Padding, Border and Content
+
+(4)While using flexbox, what axis does the following property work on: align-items: center?
+The cross axis
+
+(5)Explain why git is valuable to a team of developers.
+It allows developers to brach & collaborate and work together on code simultaneously and see changes and updates throughout the process. 
